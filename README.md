@@ -1,7 +1,9 @@
 support interface
 
 - twicca (tweet edit plugin)
+  - https://web.archive.org/web/20110704225435/http://twicca.r246.jp/plugins/documents/tweet-edit/
 - Simeji mushroom
+  - https://web.archive.org/web/20160404175400/http://www.adamrocker.com/blog/mushroom-collaborates-with-simeji
 
 inspired by
 
