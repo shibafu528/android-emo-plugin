@@ -1,3 +1,8 @@
+support interface
+
+- twicca (tweet edit plugin)
+- Simeji mushroom
+
 inspired by
 
 - https://www.shapoco.net/plainstyle/
